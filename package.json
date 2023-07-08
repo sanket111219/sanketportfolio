@@ -2,6 +2,7 @@
   "name": "client1",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://sanket111219.github.io/sanketportfolio/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js",
