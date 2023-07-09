@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sanketportfolio/static/css/main.8f8c6e06.css",
+    "main.js": "/sanketportfolio/static/js/main.bbd1ee2f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/sanketportfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sd2.JPG": "/sanketportfolio/static/media/sd2.4997e4efc530fd87e93d.JPG",
+    "static/media/me.jpg": "/sanketportfolio/static/media/me.20b9ec6616ddb0ff38ad.jpg",
+    "static/media/bg-1.jpg": "/sanketportfolio/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Poppins-Thin.ttf": "/sanketportfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/sanketportfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/sanketportfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/sanketportfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/sanketportfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/sanketportfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/sanketportfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/sanketportfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/bg.jpg": "/sanketportfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/sanketportfolio/index.html",
+    "static/media/education.svg": "/sanketportfolio/static/media/education.b18c4778e1ee645b83f7bea3c45a14e0.svg",
+    "main.8f8c6e06.css.map": "/sanketportfolio/static/css/main.8f8c6e06.css.map",
+    "main.bbd1ee2f.js.map": "/sanketportfolio/static/js/main.bbd1ee2f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/sanketportfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f8c6e06.css",
+    "static/js/main.bbd1ee2f.js"
+  ]
+}
