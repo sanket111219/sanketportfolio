@@ -8,7 +8,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "predeploy": "npm run build --prefix client",
-    "deploy": "gh-pages -d build --prefix client",
+    "deploy": "gh-pages -d client/build",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "author": "",
